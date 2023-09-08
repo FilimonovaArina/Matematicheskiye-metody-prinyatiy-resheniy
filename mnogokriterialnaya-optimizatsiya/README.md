@@ -1,5 +1,4 @@
-# mnogokriterial-naya-optimizatsiya
-ChatGPT
+# Многокритериальная оптимизация
 
 Выполнено ТЗ: Пареттооптимальное решение
 
